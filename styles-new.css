@@ -7,28 +7,28 @@
 }
 
 :root {
-    /* Forest Green & Emerald - Growth-Focused */
-    --primary-color: #065f46;
-    --secondary-color: #10b981;
-    --accent-color: #059669;
-    --success-color: #10b981;
+    /* Slate & Teal - Clean Modern */
+    --primary-color: #334155;
+    --secondary-color: #0f766e;
+    --accent-color: #14b8a6;
+    --success-color: #14b8a6;
     --warning-color: #f59e0b;
     
     /* Text Colors */
-    --text-primary: #1f2937;
-    --text-secondary: #4b5563;
-    --text-muted: #6b7280;
-    --text-light: #9ca3af;
+    --text-primary: #1e293b;
+    --text-secondary: #475569;
+    --text-muted: #64748b;
+    --text-light: #94a3b8;
     
     /* Background Colors */
     --bg-primary: #ffffff;
-    --bg-secondary: #f0fdf4;
-    --bg-accent: #dcfce7;
-    --bg-highlight: #d1fae5;
+    --bg-secondary: #f1f5f9;
+    --bg-accent: #ecfdf5;
+    --bg-highlight: #f0fdfa;
     
     /* Border & Effects */
-    --border-color: #e5e7eb;
-    --border-light: #f3f4f6;
+    --border-color: #e2e8f0;
+    --border-light: #cbd5e1;
     --shadow-xs: 0 1px 2px 0 rgb(0 0 0 / 0.05);
     --shadow-sm: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
     --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
@@ -42,6 +42,10 @@
     --radius-lg: 12px;
     --radius-xl: 16px;
     --radius-2xl: 24px;
+    
+    /* Additional Colors */
+    --card-bg: #ffffff;
+    --accent-light: #f0fdfa;
     
     /* Spacing Scale */
     --space-1: 0.25rem;
